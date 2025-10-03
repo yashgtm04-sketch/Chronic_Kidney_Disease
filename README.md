@@ -2,7 +2,7 @@
 
 This project uses machine learning to predict the onset of Chronic Kidney Disease (CKD) based on a patient's health metrics. The primary goal is to build and evaluate accurate classification models to distinguish between patients with and without CKD.
 
-## 📜 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Dataset](#-dataset)
@@ -11,13 +11,13 @@ This project uses machine learning to predict the onset of Chronic Kidney Diseas
 - [How to Run](#-how-to-run)
 - [Technologies Used](#-technologies-used)
 
-## ✨ Project Overview
+##  Project Overview
 
 This notebook provides a complete walkthrough of a machine learning workflow for a classification problem. It begins with loading a raw dataset, proceeds with extensive data cleaning and preprocessing, trains multiple classification models, and finally evaluates their performance to identify the most effective one for predicting Chronic Kidney Disease.
 
 ---
 
-## 💾 Dataset
+##  Dataset
 
 The project uses the `kidney_disease.csv` dataset. This dataset contains 400 instances with various health-related features.
 
@@ -35,7 +35,7 @@ The target variable is **`classification`**, which indicates whether a patient h
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 The project follows a systematic approach to build and evaluate the prediction models.
 
@@ -62,7 +62,7 @@ The project follows a systematic approach to build and evaluate the prediction m
 
 ---
 
-## 📊 Results
+##  Results
 
 All three models demonstrated outstanding performance on the test data, achieving identical high accuracy scores. This indicates that the data preprocessing was highly effective.
 
